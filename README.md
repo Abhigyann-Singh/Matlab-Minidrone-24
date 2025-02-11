@@ -1,8 +1,18 @@
-# Matlab-Minidrone-24
+# **Matlab-Minidrone-24** 🚁  
 
-Final Submission for Matlab Minidrone India 24
+### **Final Submission for Matlab Minidrone India 2024**  
 
-- Developed a vision-based navigation system using an RGB camera to detect and track a predefined line path, leveraging
-image processing techniques such as Hough Transforms and color thresholding.
-– Designed and implemented a robust control algorithm for precise line-following, incorporating a PID controller to adjust
-drone movements dynamically based on real-time feedback.
+## 🔹 **Overview**  
+This project showcases a **vision-based navigation system** for a minidrone, designed to detect and follow a predefined **line path** using real-time **image processing** and a **robust control algorithm**.  
+
+## 🎯 **Key Features**  
+
+✅ **Vision-Based Navigation**: Utilizes an **RGB camera** for **line detection** and tracking.  
+✅ **Advanced Image Processing**: Implements techniques like **Hough Transforms** and **color thresholding** for accurate path recognition.  
+✅ **PID-Based Control**: Integrates a **PID controller** to dynamically adjust drone movements based on **real-time feedback**.  
+
+## ⚙ **Technologies Used**  
+
+- **MATLAB & Simulink** for algorithm development and simulation.    
+- **Image Processing Toolbox** for real-time vision-based tracking.  
+- **Control System Toolbox** for PID implementation and tuning.
